@@ -1,0 +1,16 @@
+# Version control
+.git
+.github
+
+# Dependencies (install in container)
+node_modules
+
+# Scripts & docs
+docs/
+*.md
+LICENSE
+
+# Docker self
+Dockerfile
+Dockerfile_*
+.dockerignore
